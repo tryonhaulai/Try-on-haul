@@ -87,8 +87,7 @@ Imagine this: AI finding trends + you trying them on virtually. Stay tuned for s
 ## 💬 Let’s Chat
 
 Got ideas or feedback? Hit us up:  
-- 🐦 [Twitter](https://twitter.com/tryonhaul)  
-- 📸 [Instagram](https://instagram.com/tryonhaul)  
+- 📸 [Discord](https://discord.gg/WFMx2P9n)
 - 💌 [contact@tryonhaul.ai](mailto:contact@tryonhaul.ai)  
 
 We’re all about making fashion smarter together! 🤝
@@ -99,7 +98,7 @@ We’re all about making fashion smarter together! 🤝
 
 - 🌐 [TryOnHaul.ai](https://tryonhaul.ai)  
 - 👗 [Virtual Try-On](https://tryonhaul.ai/virtual-try-on)  
-- 📚 [Docs & FAQs](https://tryonhaul.ai/docs)  
+- 📚 [Docs & FAQs](https://tryonhaul.ai/#faq)  
 
 ---
 
